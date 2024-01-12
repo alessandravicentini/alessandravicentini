@@ -1,4 +1,3 @@
-👋 Oiê! Me chamo Alessandra, tenho 31 anos e sou de Brasília - DF. Biotecnologista de graduação, confeiteira de paixão, desenvolvedora front-end de formação. Sou movida pela curiosidade, pela ânsia de aprender e pela vontade de facilitar a vida das pessoas. Estou desde julho de 2022 trabalhando como instrutora de ensino front-end na escola Kenzie Academy Brasil.
 - 📫 Contato: alessandravicentini01@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandravicentini/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999860454)
